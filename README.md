@@ -1,6 +1,3 @@
-# task-manager
-A simple PHP &amp; MySQL task manager with login, deadlines and task status.
-
 Projectomschrijving
 Ik heb een task manager website gemaakt waarin gebruikers hun eigen taken kunnen bijhouden. De website is bedoeld voor mensen die overzicht willen houden in hun taken en deadlines. Gebruikers kunnen inloggen en zien alleen hun eigen taken. Het project lost het probleem op dat taken vaak vergeten worden of onoverzichtelijk zijn.
 
